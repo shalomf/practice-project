@@ -1,1 +1,1 @@
-alert("I am working just fine!")
+console.log("I am working just fine!")
